@@ -1,10 +1,11 @@
 # Padrão de commit (para iniciantes)
+![Padrão de commit (para inciantes)](https://user-images.githubusercontent.com/74930052/158368392-e8fb30c6-e476-410f-a8a1-4b6a1e1e2a13.png)
 
 ## 👀 O que é commit?
 
 ### Se você está começando agora na área pode se estranhar com algumas palavras que são usadas no mundo da programação. Mas vou tentar deixar o mais claro para ti, vamos lá? 
 
-[ GIF CONTADOR AQUI ]
+{gif gato aqui}
 
 ### Quando colocamos nosso projeto no Github, por exemplo, que é uma rede social que serve para isso, para você guardar seus códigos, você tirar da sua máquina e colocar na web, utiliza-se o GIT, que é um sistema de controle de versão - essas versões no caso, é seu projeto. Em cada versão precisamos salvar, certo? É aí que entra o commit, ela que vai guardar sua modificação e te ajudar caso você precise mais pra frente voltar no código e tentar entender o que você mesmo escreveu ahahah.
 
@@ -34,7 +35,7 @@
 
 ## 🧾 Exemplo:
 
-[ COLOCAR A IMAGEM AQUI]
+![image](https://user-images.githubusercontent.com/74930052/158369526-550a42e6-afbf-4564-a541-ac90f2ec98f9.png)
 
 ## 🦾 Só pra não esquecer:
 
