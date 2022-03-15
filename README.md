@@ -5,7 +5,7 @@
 
 ### Se você está começando agora na área pode se estranhar com algumas palavras que são usadas no mundo da programação. Mas vou tentar deixar o mais claro para ti, vamos lá? 
 
-{gif gato aqui}
+<img src="./images/catcoding.gif" />
 
 ### Quando colocamos nosso projeto no Github, por exemplo, que é uma rede social que serve para isso, para você guardar seus códigos, você tirar da sua máquina e colocar na web, utiliza-se o GIT, que é um sistema de controle de versão - essas versões no caso, é seu projeto. Em cada versão precisamos salvar, certo? É aí que entra o commit, ela que vai guardar sua modificação e te ajudar caso você precise mais pra frente voltar no código e tentar entender o que você mesmo escreveu ahahah.
 
